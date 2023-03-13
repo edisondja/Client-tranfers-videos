@@ -1,0 +1,33 @@
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\Host transfers.exe.config
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\Host transfers.exe
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\Host transfers.pdb
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host_transfers.Form1.resources
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host_transfers.Properties.Resources.resources
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host transfers.csproj.GenerateResource.cache
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host transfers.csproj.CoreCompileInputs.cache
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host transfers.exe
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host transfers.pdb
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\RestSharp.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Buffers.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Memory.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Text.Json.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.ValueTuple.dll
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\RestSharp.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Buffers.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Memory.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Text.Json.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\bin\Debug\System.ValueTuple.xml
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host transfers.csproj.CopyComplete
+C:\Users\edabreu\source\repos\Host transfers\Host transfers\obj\Debug\Host transfers.csproj.AssemblyReference.cache
